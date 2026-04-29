@@ -4,7 +4,7 @@
 
 Ce projet simule et analyse le trafic des passagers dans plusieurs stations de transport parisiennes. Il génère un jeu de données synthétique, l’exploite avec PySpark et Pandas, puis produit des visualisations avec Matplotlib et Seaborn.
 
-**&#xA0;     Les objectifs de ce projet** : 
+   ** Les objectifs de ce projet**  
 
 * Génération d’un jeu de données synthétique (500 000 enregistrements).
 * Nettoyage et enrichissement des données (année, mois, jour, heure).
@@ -15,18 +15,18 @@ Ce projet simule et analyse le trafic des passagers dans plusieurs stations de t
 * Courbe de fréquentation hebdomadaire.
 * Export des graphiques en fichiers PNG  
 
-  **&#xA0;les outils utilsés :**
+  ** les outils utilsés **
 
-  Python 3.10+
+  -Python 3.10+
 
-  Bibliothèques : pandas, numpy, matplotlib, seaborn, pyspark
+  -Bibliothèques : pandas, numpy, matplotlib, seaborn, pyspark
 
-  Outils : GitHub pour le versionnement ,readme
+  -Outils : GitHub pour le versionnement ,readme
 
-  **les résultats** **:**
+  **les résultats** 
 
-  Top 5 stations les plus fréquentées : Montparnasse, Opéra, Gare du Nord, Nation, Châtelet.
+  -Top 5 stations les plus fréquentées : Montparnasse, Opéra, Gare du Nord, Nation, Châtelet.
 
-  Heures de pointe : 7h–9h et 17h–19h.
+  -Heures de pointe : 7h–9h et 17h–19h.
 
-  Fréquentation hebdomadaire : plus élevée au début de la semaine , plus faible le week-end.
+  -Fréquentation hebdomadaire : plus élevée au début de la semaine , plus faible le week-end.
