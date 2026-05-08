@@ -25,8 +25,28 @@ Ce projet simule et analyse le trafic des passagers dans plusieurs stations de t
 
   **les résultats** 
 
-  -Top 5 stations les plus fréquentées : Montparnasse, Opéra, Gare du Nord, Nation, Châtelet.
+  -Top 5 stations les plus fréquentées : Montparnasse, Opéra, Gare du Nord,chatelet.
 
   -Heures de pointe : 7h–9h et 17h–19h.
 
-  -Fréquentation hebdomadaire : plus élevée au début de la semaine , plus faible le week-end.
+  -Fréquentation hebdomadaire :
+
+   le début de la semaine  plus chargés, avec un pic le Vendredi (notamment en soirée).
+
+   Le Lundi montre une légère hausse (effet reprise).
+
+   Le week-end (Samedi et Dimanche) connaît une baisse d’environ 30 % par rapport à la semaine.
+
+   La moyenne hebdomadaire reste stable, mais le Vendredi domine nettement.
+
+  -Les heures creuses (nuit et milieu de journée) affichent un trafic beaucoup plus faible
+
+  -2. Carte thermique station vs heure
+
+  -Les stations centrales (Gare du Nord, Châtelet) concentrent le trafic le plus élevé aux heures de pointe.
+
+   -Les stations comme Opéra ou Nation présentent une fréquentation plus modérée.
+
+    
+
+    
